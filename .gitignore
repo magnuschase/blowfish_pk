@@ -1,9 +1,11 @@
-projekt.iml
-*.zip
-!docs/*.pdf
-*.pdf
-*.json
 .ipynb_checkpoints
 __pycache__
 .idea
 .vscode
+.DS_STORE
+*.iml
+
+*.zip
+!docs/*.pdf
+*.pdf
+*.json
